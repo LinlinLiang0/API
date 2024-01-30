@@ -1,0 +1,7 @@
+E:\phase2-backend\MSA.phase2.AmazingAPI\MSA.phase2.AmazingAPI\obj\Debug\netcoreapp3.1\MSA.phase2.AmazingAPI.csproj.AssemblyReference.cache
+E:\phase2-backend\MSA.phase2.AmazingAPI\MSA.phase2.AmazingAPI\obj\Debug\netcoreapp3.1\MSA.phase2.AmazingAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\phase2-backend\MSA.phase2.AmazingAPI\MSA.phase2.AmazingAPI\obj\Debug\netcoreapp3.1\MSA.phase2.AmazingAPI.AssemblyInfoInputs.cache
+E:\phase2-backend\MSA.phase2.AmazingAPI\MSA.phase2.AmazingAPI\obj\Debug\netcoreapp3.1\MSA.phase2.AmazingAPI.AssemblyInfo.cs
+E:\phase2-backend\MSA.phase2.AmazingAPI\MSA.phase2.AmazingAPI\obj\Debug\netcoreapp3.1\MSA.phase2.AmazingAPI.csproj.CoreCompileInputs.cache
+E:\phase2-backend\MSA.phase2.AmazingAPI\MSA.phase2.AmazingAPI\obj\Debug\netcoreapp3.1\MSA.phase2.AmazingAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\phase2-backend\MSA.phase2.AmazingAPI\MSA.phase2.AmazingAPI\obj\Debug\netcoreapp3.1\MSA.phase2.AmazingAPI.MvcApplicationPartsAssemblyInfo.cache

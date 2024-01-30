@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSA.phase2.AmazingAPI", "MSA.phase2.AmazingAPI\MSA.phase2.AmazingAPI.csproj", "{09948133-2AEC-42E8-ACD2-4E58E41005F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSA.phase2.Testing", "MSA.phase2.Testing\MSA.phase2.Testing.csproj", "{EA03F924-6A09-4A49-9845-F68BA1DABB77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09948133-2AEC-42E8-ACD2-4E58E41005F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09948133-2AEC-42E8-ACD2-4E58E41005F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09948133-2AEC-42E8-ACD2-4E58E41005F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09948133-2AEC-42E8-ACD2-4E58E41005F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA03F924-6A09-4A49-9845-F68BA1DABB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA03F924-6A09-4A49-9845-F68BA1DABB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA03F924-6A09-4A49-9845-F68BA1DABB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA03F924-6A09-4A49-9845-F68BA1DABB77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622C0771-E677-455A-B38C-8CA1DF189549}
+	EndGlobalSection
+EndGlobal
